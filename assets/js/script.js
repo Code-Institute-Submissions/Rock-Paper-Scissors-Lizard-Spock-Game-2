@@ -1,4 +1,4 @@
-console.log('JavaScript Beginner Projects: Rock Paper Scissors Lizard Spock!');
+console.log('Rock Paper Scissors Lizard Spock!');
 
 window.addEventListener('DOMContentLoaded', () => {
   _Setup();
