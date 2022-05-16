@@ -1,7 +1,7 @@
 # RPSLS World
 This project is a simple rock, paper, scissors, lizard and spock online game. This particular online game allows the user to play against the computer. My intended purpose for this game was to create a exciting and fun simple game without the need of a second player. 
 
-My target audience would be for all ages. RPS World is a fully responsive JavaScript rock, paper, scissors, lizard and spock game that will allow users to have fun within 5 clicks.
+My target audience would be for all ages. RPSLS World is a fully responsive JavaScript rock, paper, scissors, lizard and spock game that will allow users to have fun within 5 clicks.
 
 ![RPSLS World](READMEImages/Responsive.PNG "RPSLS World")
 
