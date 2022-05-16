@@ -76,3 +76,9 @@
     margin: 0;
     font-family: 'Bebas Neue';
   }
+
+  @media (max-width: 1452px) {
+    .selection{
+      display: block;
+    }
+  }
